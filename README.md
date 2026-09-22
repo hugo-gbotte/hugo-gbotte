@@ -1,16 +1,15 @@
-## Hi there 👋
+### Hi there, I'm Hugo 👋 🇨🇮➡️🇨🇦
 
-<!--
-**hugo-gbotte/hugo-gbotte** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Ivorian Computer Science student based in Shenyang, China.
+Passionate about Python and building my future in Canada.
 
-Here are some ideas to get you started:
+- 🌱 Currently learning: Python, Git, GitHub
+- 🎯 Goal: Become a Software Developer in Canada
+- 📫 How to reach me: [Your email or LinkedIn here]
+- ⚡ Fun fact: I climbed mountains in China!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tech Stack
+`Python` `Git` `GitHub` `Learning more every day`
+
+---
+⭐ From Ivory Coast to China, next stop: Canada!
